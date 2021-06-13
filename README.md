@@ -41,11 +41,12 @@ And learning:
 <h3>My latest articles</h3>
 <ul>
   <li>
-    <a href="https://www.linkedin.com/pulse/maturidade-digital-e-mudan%25C3%25A7a-de-paradigma-empresarial-andr%25C3%25A9-jaques/?trackingId=agUMa%2F%2BNHEyoR%2FeqI24wRw%3D%3D"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Maturidade Digital e Mudança de Paradigma Empresarial</b></a><br/><i>PT-BR: Uma abordagem do cenário pela qual as empresas brasileiras estão passando durante a pandemia</i>
+    <a href="https://www.linkedin.com/pulse/maturidade-digital-e-mudan%25C3%25A7a-de-paradigma-empresarial-andr%25C3%25A9-jaques/?trackingId=agUMa%2F%2BNHEyoR%2FeqI24wRw%3D%3D"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="general" /> Maturidade Digital e Mudança de Paradigma Empresarial</b></a><br/><i>PT-BR: Uma abordagem do cenário pela qual as empresas brasileiras estão passando durante a pandemia</i>
   </li>
-  <li><a href="https://www.nature.com/articles/s41598-019-45405-7"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/gear_2699.png" width="20" alt="new" /> QR code micro-certified gemstones: femtosecond writing and Raman characterization in Diamond, Ruby and Sapphire</b></a><br/><i>A new technological method to certify gemstones</i>     
+  <li><a href="https://www.nature.com/articles/s41598-019-45405-7"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/gear_2699.png" width="20" alt="cientific" /> QR code micro-certified gemstones: femtosecond writing and Raman characterization in Diamond, Ruby and Sapphire</b></a><br/><i>A new technological method to certify gemstones</i>     
   </li>
 </ul>
 
 ## Github Stats :zap:
-![Github Stats](https://github-readme-stats.vercel.app/api?username=andrejaques&show_icons=true&theme=vue-dark&count_private=true&show_icons=true&include_all_commits=true) ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=andrejaques&theme=vue-dark&layout=compact)
+<img  src="https://github-readme-stats.vercel.app/api?username=andrejaques&show_icons=true&theme=vue-dark&count_private=true&show_icons=true&include_all_commits=true" width="48%" height="50px" >
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrejaques&theme=vue-dark&layout=compact" width="48%" height="50px" >
