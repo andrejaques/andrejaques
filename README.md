@@ -48,5 +48,4 @@ And learning:
 </ul>
 
 ## Github Stats :zap:
-<img  src="https://github-readme-stats.vercel.app/api?username=andrejaques&show_icons=true&theme=vue-dark&count_private=true&show_icons=true&include_all_commits=true" width="48%" height="50px" >
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrejaques&theme=vue-dark&layout=compact" width="48%" height="50px" >
+![Github Stats](https://github-readme-stats.vercel.app/api?username=andrejaques&show_icons=true&theme=vue-dark&count_private=true&show_icons=true&include_all_commits=true) ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=andrejaques&theme=vue-dark&layout=compact)
