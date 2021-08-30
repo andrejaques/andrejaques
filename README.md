@@ -29,8 +29,8 @@ I love art, games, series and storytelling.
 And learning:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=white)
 ![NextJs](https://img.shields.io/badge/-NextJs-white?style=for-the-badge&logo=nextjs&logoColor=black)
-![Bit](https://img.shields.io/badge/-Bit-764ABC?style=for-the-badge&logo=jest&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-TailWind-1572B6?style=for-the-badge&logo=jest&logoColor=white)
+![Bit](https://img.shields.io/badge/-Bit-764ABC?style=for-the-badge&logo=bitt&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-TailWind-1572B6?style=for-the-badge&logo=tailwind&logoColor=white)
 
 
 ## Contact me in social media :thumbsup:
