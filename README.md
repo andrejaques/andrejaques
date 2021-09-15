@@ -14,6 +14,7 @@ I worked lot of my years as Gemologist at <a href="https://www.gemroyalty.com/">
 
 I love art, games, series and storytelling.
 
+
 ## Technologies that I code with 💻
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
