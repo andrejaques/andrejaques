@@ -6,7 +6,7 @@ I am a Web Developer from 🇧🇷 Recife-PE and currently here. I already lived
 
 <img src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" width="fit">
 
-### A little about me
+## A little about me
 
 I am **Master in Mineral Engineering** at <a href="https://www.ufpe.br/">_Universidade Federal de Pernambuco_</a> and a **Full-Stack Developer** student at <a href="https://www.betrybe.com/">_Trybe_</a>.
 
