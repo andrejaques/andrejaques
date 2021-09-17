@@ -26,10 +26,10 @@ I love art, games, series and storytelling.
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySql-F05032?style=for-the-badge&logo=sql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySql-1572B6?style=for-the-badge&logo=sql&logoColor=white)
 
 And learning:
-![ReactNative](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![ReactNative](https://img.shields.io/badge/-ReactNative-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=white)
 ![NextJs](https://img.shields.io/badge/-NextJs-white?style=for-the-badge&logo=nextjs&logoColor=black)
 ![Bit](https://img.shields.io/badge/-Bit-764ABC?style=for-the-badge&logo=bitt&logoColor=white)
