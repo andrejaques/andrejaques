@@ -33,7 +33,7 @@ And learning:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black)
 ![NextJs](https://img.shields.io/badge/-NextJs-white?style=for-the-badge&logo=nextjs&logoColor=black)
 ![Bit](https://img.shields.io/badge/-Bit-764ABC?style=for-the-badge&logo=bitt&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-1572B6?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
 ## Contact me in social media :thumbsup:
