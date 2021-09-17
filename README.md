@@ -26,14 +26,14 @@ I love art, games, series and storytelling.
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySql-1572B6?style=for-the-badge&logo=sql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 And learning:
-![ReactNative](https://img.shields.io/badge/-ReactNative-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black)
 ![NextJs](https://img.shields.io/badge/-NextJs-white?style=for-the-badge&logo=nextjs&logoColor=black)
 ![Bit](https://img.shields.io/badge/-Bit-764ABC?style=for-the-badge&logo=bitt&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-TailWind-1572B6?style=for-the-badge&logo=tailwind&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
 ## Contact me in social media :thumbsup:
