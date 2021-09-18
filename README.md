@@ -31,10 +31,11 @@ I love art, games, series and storytelling.
 And learning:
 ![React Native](https://img.shields.io/badge/react_native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black)
-![NextJS](https://img.shields.io/badge/-NextJS-white?style=for-the-badge&logo=next&logoColor=black)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Bit](https://img.shields.io/badge/-Bit-764ABC?style=for-the-badge&logo=bitt&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-1572B6?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![ThreeJS](https://img.shields.io/badge/ThreeJS-white?style=for-the-badge&logo=threejs&logoColor=black)
+![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 
 
 ## Contact me in social media :thumbsup:
