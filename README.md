@@ -11,7 +11,7 @@ I am a Web Developer from 🇧🇷 Recife-PE and currently here. I had some expe
 I am **Master in Mineral Engineering** at <a href="https://www.ufpe.br/">_Universidade Federal de Pernambuco_</a> and a **Full-Stack Developer** student at <a href="https://www.betrybe.com/">_Trybe_</a>.
 
 I worked lot of my years as Gemologist at **Gem Royalty** and now I am a web developer. 
-I founded my own company called **Hex Coder Studio** that I work as a Full-Stack and Graphic Designer. 
+I founded my own company called **Hex Coder Studio** that I work as a Front-End and Graphic Designer. 
 
 I love art, games, series and storytelling.
 
