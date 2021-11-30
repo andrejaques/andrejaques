@@ -1,6 +1,6 @@
-# Hello, I am André Jaques!
+# Hello, I am André Jaques! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
-### Welcome to my profile.
+### Welcome to my profile. 😄
 
 I am a Web Developer from 🇧🇷 Recife-PE and currently here. I had some experiences living in 🇬🇧 London and 🇩🇪 Berlin.
 
