@@ -40,7 +40,7 @@ And learning:
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![LoopBack](https://img.shields.io/badge/loopback-blue?style=for-the-badge&logo=loopback.js&logoColor=white)
-![VueJS](https://img.shields.io/badge/VueJS-6DA55F?style=for-the-badge&logo=vuejs&logoColor=white)
+![VueJS](https://img.shields.io/badge/Vue-6DA55F?style=for-the-badge&logo=vue&logoColor=white)
 
 
 ## Contact me in social media :thumbsup:
