@@ -12,7 +12,7 @@ I am **Master in Mineral Engineering** at <a href="https://www.ufpe.br/">_Univer
 
 I worked lot of my years as Gemologist at **Gem Royalty** and I switched areas, to Software Engineer.
 I founded my own company called **Hex Coder Studio** that I worked as a Front-End and Graphic Designer for one and half year.
-One year as Senior Software Engineer at <a href="https://www.insole.com.br/">_**Insole**_</a>
+One year as Senior Software Engineer at <a href="https://www.insole.com.br/">_**Insole**_</a>.
 Today I am Senior Software Engineer at <a href="https://www.accenture.com/">_**Accenture**_</a>
 
 I love art, games, series and storytelling.
